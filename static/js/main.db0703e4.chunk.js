@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-cryptocarency"]=this["webpackJsonpreact-cryptocarency"]||[]).push([[0],{10:function(e,c,t){"use strict";t.r(c);var n=t(1),r=t(3),s=t.n(r),o=(t(8),t(0));function a(){return Object(o.jsxs)("div",{className:"App",children:[Object(o.jsx)("h1",{children:"Hello CodeSandbox"}),Object(o.jsx)("h2",{children:"Start editing to see some magic happen!"})]})}var i=document.getElementById("root");s.a.render(Object(o.jsx)(n.StrictMode,{children:Object(o.jsx)(a,{})}),i)},8:function(e,c,t){}},[[10,1,2]]]);
+//# sourceMappingURL=main.db0703e4.chunk.js.map
